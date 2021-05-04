@@ -8,6 +8,11 @@ feature:
     and Australia. We provide services for all luxury and economy cars, premium bikes,
     and more. Call us for free pick up and drop service. Roadside Assistance.
   feature_item:
+  - title: Get Appointment
+    icon: ''
+    content: Save yourself some time by scheduling service right here. After you submit
+      the form, we’ll be in touch to confirm your service appointment. It doesn’t
+      get much easier than that.
   - title: Car & Bike Service
     icon: ''
     content: Are you ready to give your car & bike the service it is asking for? Schedule
