@@ -24,7 +24,7 @@ service:
     content: General check-up, vital checks of accelerator, brake & clutch, engine
       oil check, inspect battery voltage, electrical check-up, clean air filter, spark
       plug, carburetor, Washing and Cleaning.
-  - name: Networking
+  - name: Exterior Car Spa
     icon: ti-pulse
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: Exterior Shampoo Wash, Complete Interior Vacuum Cleaning, Dashboard Polishing,
+      Interior Deodorizing.
