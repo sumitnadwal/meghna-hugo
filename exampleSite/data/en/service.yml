@@ -15,10 +15,10 @@ service:
     icon: ti-magnet
     content: Electronic Wheel Alignment and Balancing (All 4 Wheels) It does not include
       balancing weight cost.
-  - name: Graphic Design
-    icon: ti-palette
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+  - name: Accidental Repair / Denting + Painting
+    icon: ti-shield
+    content: The cost of accidental repair and denting + painting is the subject to
+      change. So, we have not listed the price for these services.
   - name: Apps Development
     icon: ti-package
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
