@@ -1,8 +1,8 @@
 ---
 feature:
   enable: true
-  image: images/about/about-business-man.jpg
-  image_webp: images/about/about-business-man.webp
+  image: images/car-service.png
+  image_webp: "/images/car-service.webp"
   title: We are a leading Car Repair Company
   content: Nadwal Automobiles is a leading Car repair and maintenance company in India
     and Australia. We provide services for all luxury and economy cars, premium bikes,
