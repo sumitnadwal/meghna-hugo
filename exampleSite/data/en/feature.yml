@@ -8,19 +8,11 @@ feature:
     and Australia. We provide services for all luxury and economy cars, premium bikes,
     and more. Call us for free pick up and drop service. Roadside Assistance.
   feature_item:
-  - title: SEO Optimized
-    icon: ti-world
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
-  - title: Easy Customization
-    icon: ti-panel
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
-  - title: SEO Optimized
-    icon: ti-stats-up
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
-  - title: Easy Customization
-    icon: ti-announcement
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+  - title: Car & Bike Service
+    icon: ''
+    content: Are you ready to give your car & bike the service it is asking for? Schedule
+      car & bike maintenance or repair right here. Our top-notch service staff can
+      get your vehicle in and out quickly. We know there isn’t much more frustrating
+      than being without your vehicle while it gets repaired. That’s why we have a
+      staff that excels in providing top-notch maintenance and repair – and is able
+      to do it quickly.
