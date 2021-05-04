@@ -28,9 +28,9 @@ pricing:
     button:
       label: Signup
       link: "#"
-  - name: Gold
+  - name: Full Bike Service
     price: "$79"
-    unit: Full Bike Service
+    unit: one time
     services:
     - General check-up
     - vital checks of accelerator
