@@ -13,6 +13,6 @@ funfacts:
   - title: Countries
     icon: ti-location-pin
     count: "2"
-  - title: Service
+  - title: Availability
     icon: ti-gift
-    count: 24/7
+    count: "365"
