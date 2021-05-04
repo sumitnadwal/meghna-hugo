@@ -3,9 +3,9 @@ contact:
   enable: true
   title: Contact Us
   subtitle: Contact Details
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero,
-    provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores
-    dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
+  content: We ensure you about quality service since we deal in customers’ satisfaction
+    only. After booking you will get an e-mail with service info and your booking
+    detail.
   contact_list:
   - icon: ti-location-pin
     info: 181 F, SH17, State Bank Colony, Sasaram, Bihar 821115 (India)
