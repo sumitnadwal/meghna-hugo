@@ -4,7 +4,7 @@ service:
   title: Our Services
   service_item:
   - name: Regular Car Maintenance
-    icon: ti-world
+    icon: ti-car
     content: General Check-Up, Brake & Clutch, Vital Check of Accelerator, Oil & Lubricants
       Change, Greasing, Washing & Cleaning
   - name: Home Car Wash
