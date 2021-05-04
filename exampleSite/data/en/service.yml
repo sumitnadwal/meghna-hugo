@@ -19,10 +19,11 @@ service:
     icon: ti-shield
     content: The cost of accidental repair and denting + painting is the subject to
       change. So, we have not listed the price for these services.
-  - name: Apps Development
-    icon: ti-package
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+  - name: Full Bike Service
+    icon: ti-target
+    content: General check-up, vital checks of accelerator, brake & clutch, engine
+      oil check, inspect battery voltage, electrical check-up, clean air filter, spark
+      plug, carburetor, Washing and Cleaning.
   - name: Networking
     icon: ti-pulse
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
