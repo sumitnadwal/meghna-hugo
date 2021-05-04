@@ -6,10 +6,10 @@ funfacts:
   counter_item:
   - title: Happy Clients
     icon: ti-face-smile
-    count: 15000+
+    count: "15000"
   - title: Cars Repaired
     icon: ti-car
-    count: 35000+
+    count: "35000"
   - title: Countries
     icon: ti-location-pin
     count: "2"
