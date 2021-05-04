@@ -1,26 +1,26 @@
-################################# Testimonial #########################
+---
 testimonial:
-  enable : true
-  bg_image : images/backgrounds/bg-testimonial.jpg
-  bg_image_webp : images/backgrounds/bg-testimonial.webp
-  testimonial_item :
-    # testimonial item loop
-    - name : Jonathon Andrew
-      image : images/client/client-1.jpg
-      image_webp : images/client/client-1.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
-      
-    # testimonial item loop
-    - name : Mark Dinn
-      image : images/client/client-2.jpg
-      image_webp : images/client/client-2.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
-      
-    # testimonial item loop
-    - name : Lemos Kail
-      image : images/client/client-1.jpg
-      image_webp : images/client/client-1.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+  enable: true
+  bg_image: images/backgrounds/bg-testimonial.jpg
+  bg_image_webp: images/backgrounds/bg-testimonial.webp
+  testimonial_item:
+  - name: Jonathon Andrew
+    image: images/client/client-1.jpg
+    image_webp: images/client/client-1.webp
+    date: Dec 26, 2018
+    content: Nadwal Automobiles is more trustable car service company in New South
+      Wales. They are passionate about their work and very professional.
+  - name: Mark Dinn
+    image: images/client/client-2.jpg
+    image_webp: images/client/client-2.webp
+    date: March 19, 2020
+    content: I would like to recommend Nadwal Automobiles as a leading car service
+      provider in Victoria. They are brilliant in their field and I satisfied with
+      their work 100% for last 2 years.
+  - name: Lemos Kail
+    image: images/client/client-1.jpg
+    image_webp: images/client/client-1.webp
+    date: Dec 26, 2018
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium
+      minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi
+      aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
