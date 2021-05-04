@@ -11,10 +11,10 @@ service:
     icon: ti-brush-alt
     content: Exterior Shampoo Wash + Complete Interior Vacuum Cleaning + Dashboard
       Polishing + Body Polish + Glass Shining
-  - name: Media &amp; Advertisement
-    icon: ti-blackboard
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+  - name: Wheel Alignment & Balancing
+    icon: ti-magnet
+    content: Electronic Wheel Alignment and Balancing (All 4 Wheels) It does not include
+      balancing weight cost.
   - name: Graphic Design
     icon: ti-palette
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
