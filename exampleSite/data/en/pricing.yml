@@ -16,16 +16,15 @@ pricing:
     button:
       label: Signup
       link: "#"
-  - name: Silver
-    price: "$149"
-    unit: month
+  - name: Home Car Wash
+    price: "$79"
+    unit: one time
     services:
-    - 1GB Disk Space
-    - 10 Email Account
-    - Script Installer
-    - 1 GB Storage
-    - 10 GB Bandwidth
-    - 24/7 Tech Support
+    - Exterior Shampoo Wash
+    - Complete Interior Vacuum Cleaning
+    - Dashboard Polishing
+    - Body Polish
+    - Glass Shining
     button:
       label: Signup
       link: "#"
