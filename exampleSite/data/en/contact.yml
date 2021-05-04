@@ -7,6 +7,9 @@ contact:
     only. After booking you will get an e-mail with service info and your booking
     detail.
   contact_list:
+  - icon: ti-location-arrow
+    info: 'Location: Bihar, Uttar Pradesh, Jharkhand (India), New South Wales, Victoria,
+      South Australia, Western Australia, Queensland'
   - icon: ti-location-pin
     info: 181 F, SH17, State Bank Colony, Sasaram, Bihar 821115 (India)
   - icon: ti-mobile
